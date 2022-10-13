@@ -1,0 +1,32 @@
+[Name of the city with country, region or province optional]
+
+[List with four links to another pages of the project. 
+One page should deal with the history and legends of the city. 
+Another page should deal with the toponomy of the city name.
+Another page should deal with the notable people born in the city.
+Another page should deal with the monuments of the city.
+]
+
+[Longest heading indicating that the page is going to deal with the main monuments of the city] 
+[Brief paragraph introducing the information about the monuments of the city]
+
+[Paragraph with the name of the author of the information]
+
+[Paragraph with the information publication or update date]
+
+[Heading with the name of one of the monuments of the city]
+
+[Paragraph with information about the monument]
+
+[Image of the monument with alternate text for the image]
+[Paragraph with a title for the image]
+
+[Heading with the name of another of the monuments of the city]
+
+[Paragraph with information about the monument]
+
+[Heading about some information related to the last monument]
+
+[Paragraph with information related to the last monument]
+
+[Paragraph with copyright information]
